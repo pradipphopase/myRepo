@@ -1,0 +1,13 @@
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\bin\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.exe
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\bin\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.deps.json
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\bin\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.runtimeconfig.json
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\bin\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.runtimeconfig.dev.json
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\bin\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.dll
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\bin\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.pdb
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\obj\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.csprojAssemblyReference.cache
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\obj\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.AssemblyInfoInputs.cache
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\obj\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.AssemblyInfo.cs
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\obj\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\obj\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.dll
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\obj\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.pdb
+C:\Users\pphopase\source\repos\ConsoleApp_PromotionEngine\ConsoleApp_PromotionEngine\obj\Debug\netcoreapp3.1\ConsoleApp_PromotionEngine.genruntimeconfig.cache
